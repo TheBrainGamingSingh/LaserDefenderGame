@@ -1,0 +1,44 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\My Games\LaserDefender\laserdefender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\My Games\LaserDefender\laserdefender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\My Games\LaserDefender\laserdefender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\My Games\LaserDefender\laserdefender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\My Games\LaserDefender\laserdefender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\My Games\LaserDefender\laserdefender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.133 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\My Games\LaserDefender\laserdefender_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\My Games\LaserDefender\laserdefender_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 5.542552 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.754634 ms (FindLiveObjects: 0.013879 ms CreateObjectMapping: 0.006168 ms MarkObjects: 0.111036 ms  DeleteObjects: 0.002056 ms)
+
+Music:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.177702 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 176.
+Total: 5.522504 ms (FindLiveObjects: 0.016963 ms CreateObjectMapping: 0.015935 ms MarkObjects: 0.261140 ms  DeleteObjects: 3.459597 ms)
+
+Music:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Quit Request!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
