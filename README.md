@@ -1,6 +1,7 @@
 # Laser Defender Game
 `git clone https://github.com/TheBrainGamingSingh/LaserDefenderGame.git`
-
+`cd LaserDefenderGame`
 `git checkout release`
 
-Run in 800 x 600 resolution.
+
+Run laserdefender.exe in 800 x 600 resolution.
