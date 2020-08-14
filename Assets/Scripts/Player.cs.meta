@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: ddd0011afc2f10a4985796636ba73918
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences:
-  - laser: {fileID: 114618, guid: 186389c4e4c201c45a8b92907ab84f7e, type: 2}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
